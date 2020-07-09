@@ -13,3 +13,4 @@ Problem | Time | Memory
 112A - Petya and Strings.cpp | 62 ms | 3600 KB
 263A - Beautiful Matrix.cpp | 62ms | 3600 KB
 339A - Helpful Maths.cpp | 62 ms | 3700 KB
+281A - Word Capitalization | 62 ms | 3600 KB
