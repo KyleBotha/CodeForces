@@ -11,3 +11,4 @@ Problem | Time | Memory
 50A - Domino piling.cpp | 62 ms | 3700 KB
 282A - Bit++.cpp | 31 ms | 3700 KB
 112A - Petya and Strings.cpp | 62 ms | 3600 KB
+263A - Beautiful Matrix.cpp | 62ms | 3600 KB
