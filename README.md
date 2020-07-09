@@ -12,3 +12,4 @@ Problem | Time | Memory
 282A - Bit++.cpp | 31 ms | 3700 KB
 112A - Petya and Strings.cpp | 62 ms | 3600 KB
 263A - Beautiful Matrix.cpp | 62ms | 3600 KB
+339A - Helpful Maths.cpp | 62 ms | 3700 KB
